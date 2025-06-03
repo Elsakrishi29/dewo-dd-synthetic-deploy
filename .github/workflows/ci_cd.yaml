@@ -7,7 +7,6 @@ on:
 
 jobs:
   dewo_dd_synthetic:
-    needs: build
     runs-on: ubuntu-latest
 
     steps:
